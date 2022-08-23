@@ -1,4 +1,4 @@
-# htmlbolumsonualistirmasi
+# HTML Alıştırması
 HTML Bölüm sonu alıştırması
 
 <!-- LİNK -->
